@@ -14,3 +14,12 @@ IF INSTALLING INTERNALLY - I recommend using a smaller height part for the 2200u
 ![powersupplyinstalled](https://github.com/nateo87/ColecoVision-power-supply/blob/main/installed%20in%20CV.jpg)
 
 Extensive testing hasn't been done just yet; I've had it on long enough for a couple games of Donkey Kong, but nothing like leaving it on all day to see how it performs, much less seeing if things like the Roller Controller work properly with it. I'd love for others to give this a good test though! The gerber files are available above.
+
+BILL OF MATERIALS:
+- 2x 7805 regulators. If you can cheaply get a hold of the more efficient alternative being made today (i.e. Traco), those come highly recommended.
+- 2200uf electrolytic capacitor
+- 2x 100uf electrolytic capacitors
+- 2x 1uf electrolytic capacitors
+- 2x 0.1uf ceramic capacitors
+- 470uf electrolytic capacitor
+- LT1054 charge pump inverter IC
