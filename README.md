@@ -7,6 +7,8 @@ This design works from a single 12v 3a power supply that can be connected via th
 
 The power supply can be installed directly into the ColecoVision (like I've done in the picture) or can be kept external and have a an original CV power cord (with that infernal proprietary plug) grafted onto it. I know there is sometimes trepidation towards case modding, so I like being able to keep the option open for those who would rather avoid doing that.
 
+IF INSTALLING INTERNALLY - I recommend using a smaller height part for the 2200uf cap so it fits in the case of the CV.
+
 ![powersupplyinstalled](https://github.com/nateo87/ColecoVision-power-supply/blob/main/installed%20in%20CV.jpg)
 
 Extensive testing hasn't been done just yet; I've had it on long enough for a couple games of Donkey Kong, but nothing like leaving it on all day to see how it performs, much less seeing if things like the Roller Controller work properly with it. I'd love for others to give this a good test though! 
